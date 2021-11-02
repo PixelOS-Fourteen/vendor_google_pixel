@@ -9,6 +9,9 @@ product/fonts/GoogleSans-Regular.ttf
 product/fonts/GoogleSansClock-Regular.ttf
 product/fonts/GoogleSansFlex-Regular.ttf
 
+# Google extension services (extracted from com.google.android.extservices.apex) - from husky UD1A.230803.041
+-system/priv-app/GoogleExtServices/GoogleExtServices.apk;OVERRIDES=ExtServices;PRESIGNED|dee09d59c8cf69e278147558b7f3c8ebd6afcafd
+
 # Intelligence
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED;OVERRIDES=SettingsIntelligence
 
@@ -26,6 +29,7 @@ system_ext/priv-app/SystemUIClocks-Weather/SystemUIClocks-Weather.apk
 
 # Permissions
 product/etc/permissions/privapp-permissions-google-p.xml
+-system/etc/permissions/privapp_allowlist_com.google.android.ext.services.xml|e4b3cd562f6a313630eeccee1432d84aa71a44b0
 system_ext/etc/permissions/privapp-permissions-google-se.xml
 
 # Photo

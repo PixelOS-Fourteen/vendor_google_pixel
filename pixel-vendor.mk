@@ -97,6 +97,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/pixel/proprietary/system_ext/etc/permissions/privapp-permissions-google-se.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-google-se.xml
 
 PRODUCT_PACKAGES += \
+    GoogleExtServices \
     MarkupGoogle \
     PixelThemesStub \
     PixelThemesStub2022_and_newer \
@@ -119,4 +120,5 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Inflate \
     SystemUIClocks-NumOverlap \
     SystemUIClocks-Weather \
-    WallpaperPickerGoogleRelease
+    WallpaperPickerGoogleRelease \
+    privapp_allowlist_com.google.android.ext.services
