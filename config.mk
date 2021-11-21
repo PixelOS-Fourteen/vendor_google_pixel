@@ -33,6 +33,10 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.ime.kb_pad_land_l=64 \
     ro.com.google.ime.kb_pad_land_r=64
 
+# Gestural navbar
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural
+
 # Google Battery
 TARGET_DOES_NOT_SUPPORT_GOOGLE_BATTERY ?= true
 
