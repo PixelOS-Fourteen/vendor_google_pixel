@@ -101,3 +101,10 @@ system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
 system_ext/priv-app/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk
 system_ext/priv-app/SystemUIClocks-Weather/SystemUIClocks-Weather.apk
 -system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;apkOVERRIDES=Launcher3,Launcher3QuickStep,TrebuchetQuickStep;PRESIGNED
+-product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
+-product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk
+-product/app/PixelWallpapers2023/PixelWallpapers2023.apk;PRESIGNED
+-product/app/WallpaperEmojiPrebuilt/WallpaperEmojiPrebuilt.apk;PRESIGNED
+-product/priv-app/PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk;PRESIGNED
+-product/priv-app/WallpaperEffect/WallpaperEffect.apk;PRESIGNED
+-system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;OVERRIDES=ThemePicker,WallpaperPicker,WallpaperPicker2,WallpaperCropper;PRESIGNED
