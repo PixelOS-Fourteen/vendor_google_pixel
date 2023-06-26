@@ -102,6 +102,7 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceGooglePrebuilt \
     WeatherPixelPrebuilt \
     Flipendo \
+    NexusLauncherRelease \
     PixelSetupWizard \
     SystemUIClocks-BigNum \
     SystemUIClocks-Calligraphy \
