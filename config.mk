@@ -37,6 +37,10 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural
 
+# GMSOverride
+PRODUCT_PACKAGES += \
+    GMSOverride
+
 # Google Battery
 TARGET_DOES_NOT_SUPPORT_GOOGLE_BATTERY ?= true
 
