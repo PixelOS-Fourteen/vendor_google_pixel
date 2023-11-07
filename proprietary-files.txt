@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from husky-ud1a.230803.041
+# All unpinned files are extracted from husky UD1A.231105.004
 
 # Flipendo
 system_ext/app/Flipendo/Flipendo.apk
@@ -9,8 +9,8 @@ product/fonts/GoogleSans-Regular.ttf
 product/fonts/GoogleSansClock-Regular.ttf
 product/fonts/GoogleSansFlex-Regular.ttf
 
-# Google extension services (extracted from com.google.android.extservices.apex) - from husky UD1A.230803.041
--system/priv-app/GoogleExtServices/GoogleExtServices.apk;OVERRIDES=ExtServices;PRESIGNED|dee09d59c8cf69e278147558b7f3c8ebd6afcafd
+# Google extension services (extracted from com.google.android.extservices.apex) - from husky UD1A.231105.004
+-system/priv-app/GoogleExtServices/GoogleExtServices.apk;OVERRIDES=ExtServices;PRESIGNED|e006a520eb2d85a9181031de0a2dc0fb6e5d9f72
 
 # Intelligence
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED;OVERRIDES=SettingsIntelligence
